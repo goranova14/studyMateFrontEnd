@@ -1,0 +1,93 @@
+.myButton {
+  animation-duration: 0.5s;
+  background-color: #a0acad !important;
+  color: black !important;
+  transition-duration: 0.4s;
+  margin: 15px;
+  padding: 20px 35px !important;
+  border: #273043 !important;
+}
+.pwd-container img {
+  cursor: pointer;
+  position: absolute;
+  width: 20px;
+  right: 181px;
+  top:339px;
+}
+
+.pwd-container2 img {
+  cursor: pointer;
+  position: absolute;
+  width: 20px;
+  right: 62px;
+  top: 553px
+}
+.image {
+  display: "flex" !important;
+  justify-content: "center" !important;
+  align-items: "center" !important;
+  margin-top: "50px" !important;
+  width:"10px" !important
+
+}
+
+.myButton1 {
+  animation-duration: 0.5s;
+  background-color: #273043 !important;
+  color: #f4f9e9 !important;
+  transition-duration: 0.4s;
+  margin: 15px;
+  padding: 20px 35px !important;
+  text-decoration: none;
+
+
+}
+.myButton23 {
+  animation-duration: 0.5s;
+  background-color: #273043 !important;
+  color: #d39380 !important;
+  transition-duration: 0.4s;
+  margin: 15px;
+  padding: 20px 35px !important;
+  text-decoration: none;
+
+
+}.myButton26 {
+  animation-duration: 0.5s;
+  background-color: #d28a1c !important;
+  color: #000000 !important;
+  transition-duration: 0.4s;
+  margin: 15px;
+  padding: 20px 35px !important;
+  text-decoration: none;
+
+
+}
+
+.myButton1:hover {
+  color: black, !important;
+  background-color: #a0acad !important;
+
+}
+
+.myButton:hover {
+  background-color: #f4f9e9 !important;
+  color: black, !important;
+
+}
+.card-body{
+  width:250px !important;
+  height:150px ;
+  color:#F4F9E9;
+  
+}
+.cards{
+  background-color:#F4F9E9 !important;
+
+}
+.cards:hover{
+
+  background-color: #d28a1c !important;
+  transition-duration: 0.5s;
+
+}

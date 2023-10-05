@@ -1,0 +1,26 @@
+.card {
+    width: 15%;
+    box-shadow: 0 9px 23px rgb(93, 92, 92), 0 5px 5px rgba(0, 0, 0, 0.06) !important;
+    background: rgb(39, 48, 67);
+    background: linear-gradient(90deg, rgb(223, 160, 0) 0%, rgb(12, 25, 65) 100%);
+}
+
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 39px;
+    cursor: pointer;
+  }
+  
+  .card {
+    transition: transform 0.3s;
+    transform-origin: center;
+  }
+  
+  .card:hover {
+    transform: scale(1.2);
+  }
+  

@@ -1,0 +1,22 @@
+.settings-container{
+
+    margin-top: 2rem;
+    padding: 2rem;
+    background-color: #a0acad;
+}
+  
+.myButton {
+    animation-duration: 0.5s;
+    background-color: #03373c !important;
+    color: white !important;
+    transition-duration: 0.4s;
+    margin: 15px;
+    padding: 20px 35px !important;
+    border: #273043 !important;
+  }
+  
+  .myButton:hover {
+    background-color: #d78521!important;
+    color: red, !important;
+  
+  }
